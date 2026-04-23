@@ -1,0 +1,34 @@
+LLM INTEGRATION & DATA PIPELINE - AGGREGATED SUMMARY
+==========================================================
+Total processed sources: 3
+Total processed chunks: 4
+Skipped inputs: 0
+
+Sentiment distribution:
+- positive: 1
+- neutral: 3
+- negative: 0
+
+Top entities across all inputs:
+- Mamata Banerjee: 3
+- Delhi: 2
+- India: 2
+- BJP: 2
+- Babur: 2
+- Ministry of Urban Development: 1
+- Bengaluru: 1
+- Pune: 1
+- Ahmedabad: 1
+- Arjun Malhotra: 1
+
+Representative questions raised by the corpus:
+- How will smaller cities fund grid upgrades?
+- Which agencies will own the charging assets?
+- What accountability framework will be used if fleet uptime targets are missed during the pilot phase?
+- What caused the barcode synchronization issue at NorthRiver Logistics?
+- How did the software patch contribute to the delays?
+- What measures can NorthRiver Logistics take to prevent similar issues in the future?
+- What is the reason behind the ED summoning Pratik Jain's kin?
+- How many people have been arrested in connection with the SIR officers hostage case?
+- What is the significance of the Bengal nurse who died after being set on fire by her husband?
+- What are the BJP's plans for Bengal's public spaces?

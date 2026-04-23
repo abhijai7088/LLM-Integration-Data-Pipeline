@@ -1,0 +1,5 @@
+AquaDex is an AI-first eDNA analysis platform that combines classical bioinformatics with DNA language models to detect both known taxa and novel biological signals from sequencing data. The platform integrates FastAPI, Nextflow, Docker, and React to create a reproducible end-to-end system for biodiversity exploration.
+
+The pipeline performs preprocessing, taxonomic classification, novelty detection, clustering, and results aggregation. By using DNABERT-S embeddings, FAISS similarity search, UMAP, and HDBSCAN, the system highlights candidate novel clusters and reduces the proportion of unclassified reads when compared to database-only pipelines.
+
+The design emphasizes reproducibility, interpretability, and modular engineering. It also produces structured outputs such as species tables, novelty metrics, and dashboard-ready summaries that can be consumed by a frontend application.

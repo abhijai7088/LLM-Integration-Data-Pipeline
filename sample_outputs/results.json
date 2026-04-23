@@ -1,0 +1,117 @@
+[
+  {
+    "source_type": "file",
+    "source_name": "sample_input_brief.pdf",
+    "source_id": "C:\\Users\\abhij\\AppData\\Local\\Temp\\tmp7rcnnh1_\\sample_input_brief.pdf",
+    "chunk_id": "file_1",
+    "chunk_index": 1,
+    "summary": "The Ministry of Urban Development announced a pilot program in Bengaluru, Pune, and Ahmedabad to accelerate the rollout of electric city buses, aiming to reduce diesel fleet dependence over the next three years.",
+    "entities": [
+      "Ministry of Urban Development",
+      "Bengaluru",
+      "Pune",
+      "Ahmedabad",
+      "Arjun Malhotra",
+      "GreenGrid Foundation",
+      "Horizon Capital"
+    ],
+    "sentiment": "positive",
+    "confidence_score": 0.8,
+    "questions": [
+      "How will smaller cities fund grid upgrades?",
+      "Which agencies will own the charging assets?",
+      "What accountability framework will be used if fleet uptime targets are missed during the pilot phase?"
+    ]
+  },
+  {
+    "source_type": "file",
+    "source_name": "sample_input_memo.txt",
+    "source_id": "C:\\Users\\abhij\\AppData\\Local\\Temp\\tmp7rcnnh1_\\sample_input_memo.txt",
+    "chunk_id": "file_2",
+    "chunk_index": 1,
+    "summary": "NorthRiver Logistics experienced delays at its Jaipur and Kolkata hubs due to a barcode synchronization issue, affecting 14% of outbound parcels. The issue began after a software patch and was exacerbated by poor connectivity. The company restored primary scanner service but customers faced delivery slippage of 12-24 hours.",
+    "entities": [
+      "NorthRiver Logistics",
+      "Meera Sethi",
+      "Jaipur",
+      "Kolkata",
+      "UrbanCart",
+      "Delhi",
+      "Lucknow",
+      "Patna",
+      "Meridian Supply Research"
+    ],
+    "sentiment": "neutral",
+    "confidence_score": 0.8,
+    "questions": [
+      "What caused the barcode synchronization issue at NorthRiver Logistics?",
+      "How did the software patch contribute to the delays?",
+      "What measures can NorthRiver Logistics take to prevent similar issues in the future?"
+    ]
+  },
+  {
+    "source_type": "url",
+    "source_name": "https://www.indiatoday.in/india/west-bengal",
+    "source_id": "https://www.indiatoday.in/india/west-bengal",
+    "chunk_id": "url_3",
+    "chunk_index": 1,
+    "summary": "West Bengal news updates include the ED summoning Pratik Jain's kin, TMC alleging vendetta, and various other incidents such as industrialist Pawan Ruia's arrest, a lift malfunction at Kolkata's RG Kar Hospital, and the Bengal nurse who died after being set on fire by her husband.",
+    "entities": [
+      "West Bengal",
+      "India",
+      "Pratik Jain",
+      "Mamata Banerjee",
+      "Babul Supriyo",
+      "Narendra Modi",
+      "Pawan Ruia",
+      "Rahul Verma",
+      "RG Kar Hospital",
+      "SIR",
+      "TMC",
+      "BJP",
+      "CV Ananda Bose",
+      "RN Ravi",
+      "Mamata Banerjee",
+      "Suvendu Adhikari",
+      "Bhabanipur",
+      "Darjeeling",
+      "Bihar",
+      "Nipah virus",
+      "Babur"
+    ],
+    "sentiment": "neutral",
+    "confidence_score": 0.8,
+    "questions": [
+      "What is the reason behind the ED summoning Pratik Jain's kin?",
+      "How many people have been arrested in connection with the SIR officers hostage case?",
+      "What is the significance of the Bengal nurse who died after being set on fire by her husband?"
+    ]
+  },
+  {
+    "source_type": "url",
+    "source_name": "https://www.indiatoday.in/india/west-bengal",
+    "source_id": "https://www.indiatoday.in/india/west-bengal",
+    "chunk_id": "url_4",
+    "chunk_index": 2,
+    "summary": "BJP MLA Agnimitra Paul faces 'go back' slogans, BJP-TMC workers clash in Asansol, while Mamata Banerjee's Trinamool Congress delegation meets Chief Election Commissioner over SIR.",
+    "entities": [
+      "BJP",
+      "Mamata Banerjee",
+      "Agnimitra Paul",
+      "Babur",
+      "Bengal",
+      "India",
+      "Asansol",
+      "Delhi",
+      "Trinamool Congress",
+      "Chief Election Commissioner Gyanesh Kumar"
+    ],
+    "sentiment": "neutral",
+    "confidence_score": 0.8,
+    "questions": [
+      "What are the BJP's plans for Bengal's public spaces?",
+      "How will the Trinamool Congress delegation's meeting with the Chief Election Commissioner affect the SIR issue?",
+      "What is the significance of the 'Banglar Yuva Sathi' scheme in Bengal's interim budget?"
+    ]
+  }
+]
