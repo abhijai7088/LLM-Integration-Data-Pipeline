@@ -1,4 +1,4 @@
-# AI Engineer Intern — Assignment 2: LLM Integration & Data Pipeline
+# LLM Integration & Data Pipeline
 
 ## Overview
 A robust, production-style data pipeline that integrates with LLM APIs, handles real-world messy input, and produces clean structured output without relying on high-level abstraction libraries like LangChain or LlamaIndex.
